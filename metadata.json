@@ -1,0 +1,6 @@
+{
+  "name": "ESP32-S3 生物信号采集与分析系统",
+  "description": "基于 ESP32-S3 的双场景（夜间睡眠监测与实时测谎实验）生物信号采集与分析系统控制面板与高保真模拟器。支持高帧率实时波形绘制、提问标记时间轴、安全防烫伤策略以及硬件引脚约束验证。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
